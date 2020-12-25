@@ -8,6 +8,7 @@ PDF阅读器 foxit reader:https://www.foxitsoftware.cn/pdf-reader/ 英文网站�
 搜索的两款工具 listary/everything：https://www.voidtools.com/zh-cn/
 
 下载工具 IDM：https://www.internetdownloadmanager.com/
+如果出现乱码，可以先CTRL，再点击下载
 
 文字识别 天若OCR：https://tianruoocr.cn/
 
