@@ -1,5 +1,8 @@
 # commonsense
-PDF阅读器 foxit reader:https://www.foxitsoftware.cn/pdf-reader/ 英文网站下载的无广告  
+
+# 阅读器推荐
+-PDF阅读器 foxit reader:https://www.foxitsoftware.cn/pdf-reader/ 英文网站下载的无广告<br/>
+-adobe 但是这个软件很大 <br/>
 
 剪贴板工具 ditto：https://ditto-cp.sourceforge.io/
 
