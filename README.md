@@ -82,6 +82,7 @@ WORLD OF MAGAZINE：https://www.worldofmagazine.com/
 
 Marxists Internet Archive：https://www.marxists.org/
 
+圣经版本：https://bible.fhl.net/
 
 # 搜索
 LIB.:http://gen.lib.rus.ec/ 最全
