@@ -48,6 +48,10 @@ Social Text：https://read.dukeupress.edu/social-text/issue
 Inquiry：https://www.tandfonline.com/toc/sinq20/current
 An Interdisciplinary Journal of Philosophy
 
+# 通俗期刊下载
+ML：https://magazinelib.com/ 很全。且保持最新。
+WORLD OF MAGAZINE：https://www.worldofmagazine.com/
+
 # 软件
 -PDF阅读器 foxit reader:https://www.foxitsoftware.cn/pdf-reader/ 英文网站下载的无广告<br/>
 -adobe 但是这个软件很大 <br/>
