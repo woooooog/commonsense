@@ -14,7 +14,7 @@
 
 臺灣大學學術期刊資料庫 http://ejournal.press.ntu.edu.tw/index.php
 
--中外文学：http://www.forex.ntu.edu.tw/%e4%b8%ad%e5%a4%96%e6%96%87%e5%ad%b8-%e7%95%b6%e6%9c%9f%e4%bb%8b%e7%b4%b9%e3%80%81%e9%81%8e%e6%9c%9f%e4%b8%ad%e5%a4%96/
+-中外文学:https://www.chungwai.org/
 
 -國立臺灣大學美術史研究集刊：http://homepage.ntu.edu.tw/~artcy/08.html
 
