@@ -1,5 +1,17 @@
 # commonsense
 
+# 论文写作
+
+SSCI
+
+-武汉大学图书馆：http://apps.lib.whu.edu.cn/enssci/default.asp
+
+-connected papers：https://www.connectedpapers.com/
+
+a&hci
+
+武汉大学图书馆： http://apps.lib.whu.edu.cn/ahci/default.asp
+
 # 中文期刊
 	
 中研院
@@ -83,6 +95,8 @@ WORLD OF MAGAZINE：https://www.worldofmagazine.com/
 Marxists Internet Archive：https://www.marxists.org/
 
 圣经版本：https://bible.fhl.net/
+
+
 
 # 搜索
 LIB.:http://gen.lib.rus.ec/ 最全
