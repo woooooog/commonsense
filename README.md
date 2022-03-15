@@ -8,7 +8,7 @@ SSCI
 
 -connected papers：https://www.connectedpapers.com/
 
-a&hci
+A&HCI
 
 武汉大学图书馆： http://apps.lib.whu.edu.cn/ahci/default.asp
 
