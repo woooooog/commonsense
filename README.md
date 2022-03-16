@@ -36,6 +36,12 @@ A&HCI
 
 《新史学》：http://saturn.ihp.sinica.edu.tw/~huangkc/nhist/ 偏重古典
 
+台湾社会研究季刊
+
+官网：http://www.taishe.com.tw/periodical.html 
+
+台湾期刊文献咨询网可以下载上述过刊：https://tpl.ncl.edu.tw/NclService/
+
 # 香港期刊
 香港文期刊論文索引：http://hkinchippub.lib.cuhk.edu.hk/search.jsp
 
