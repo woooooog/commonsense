@@ -49,6 +49,15 @@ A&HCI
 
 《中國文化研究所学報》：http://www.cuhk.edu.hk/ics/journal/chi/toc/no62.html
 
+香港报刊：https://hkjo.lib.hku.hk/exhibits/show/hkjo/home
+
+港澳期刊网：http://hkmpnpub.lib.cuhk.edu.hk/ 非常有用。
+
+
+
+
+
+
 # 英美期刊
 History Online：https://www.history.ac.uk/history-online  is a resource for historians, which provides key information about our discipline.英国期刊汇总
 
@@ -101,6 +110,33 @@ WORLD OF MAGAZINE：https://www.worldofmagazine.com/
 Marxists Internet Archive：https://www.marxists.org/
 
 圣经版本：https://bible.fhl.net/
+
+学术图书数据库：https://www.hathitrust.org/
+
+中國新方誌中的基督宗教資料:http://www.hsscol.org.hk/FangZhi/main.htm
+
+南洋商报：https://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=nysp
+
+台湾國家圖書館期别文獻資訊網：https://tpl.ncl.edu.tw/NclService/ 提供新刊电子邮件下载
+
+澳门档案馆：https://www.archives.gov.mo/cn/
+
+澳门文献：https://library2.um.edu.mo/html/e_resources/mo_e_resources/mo_e_resources.asp
+
+澳门期刊论文：https://libdigital.um.edu.mo/macau-periodical/journal-title
+
+《香港文学》：https://hklit.lib.cuhk.edu.hk/
+
+香港早期小报：https://repository.lib.cuhk.edu.hk/tc/collection/hk-tabloid
+
+香港中文大学资料库：https://repository.lib.cuhk.edu.hk/tc/collection
+
+香港旧报纸：https://mmis.hkpl.gov.hk/zh/old-hk-collection
+
+香港浸会大学数据库，包括：當代中國剪報資料、海外華僑華人剪報數據庫、當代中國研究文獻目錄，只有索引：https://library.hkbu.edu.hk/collections/special-collections-archives/
+
+中国宣传海报，包括文革、反右、上山下乡等题材：https://chineseposters.net/
+
 
 
 
