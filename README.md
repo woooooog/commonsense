@@ -1,4 +1,12 @@
-# commonsense
+# 如何找英文征稿-前沿动态
+
+https://pamla.ballastacademic.com/Home/CFP
+
+https://www.cfplist.com/#
+
+http://www.wikicfp.com/cfp/call?conference=literature&page=3
+
+https://www.call4paper.com/listBySubject?type=event&subject=4.19&count=count
 
 # 论文写作
 
