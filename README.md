@@ -44,9 +44,7 @@ A&HCI
 
 《新史学》：http://saturn.ihp.sinica.edu.tw/~huangkc/nhist/ 偏重古典
 
-台湾社会研究季刊
-
-官网：http://www.taishe.com.tw/periodical.html 
+台湾社会研究季刊官网：http://www.taishe.com.tw/periodical.html 
 
 台湾期刊文献咨询网可以下载上述过刊：https://tpl.ncl.edu.tw/NclService/
 
@@ -60,10 +58,6 @@ A&HCI
 香港报刊：https://hkjo.lib.hku.hk/exhibits/show/hkjo/home
 
 港澳期刊网：http://hkmpnpub.lib.cuhk.edu.hk/ 非常有用。
-
-
-
-
 
 
 # 英美期刊
