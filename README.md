@@ -1,5 +1,7 @@
 # 如何找英文征稿-前沿动态
 
+☆☆☆☆☆：https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches
+
 https://pamla.ballastacademic.com/Home/CFP
 
 https://www.cfplist.com/#
